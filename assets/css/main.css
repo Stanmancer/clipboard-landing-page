@@ -9,7 +9,7 @@ main {
     margin-bottom: 100px;
 }
 
-article {
+article, .article {
     display: flex;
     flex-direction: column;
     align-items: center;
