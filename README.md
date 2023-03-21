@@ -36,7 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution here](https://your-solution-url.com)
+- Solution URL:
+  [Solution here](https://www.frontendmentor.io/solutions/responsive-clipboard-landing-page-using-css-flex-layout-z0kRxX4ouY)
 - Live Site URL:
   [Live site here](https://stanmancer.github.io/clipboard-landing-page/)
 
@@ -50,6 +51,15 @@ Users should be able to:
 - CSS Grid
 
 ### What I learned
+
+- I had trouble using linking images in CSS using `url()` because i forgot to
+  wrap the file path in double quotes ("")
+
+```css
+.selector {
+  background-image: url("path/to/file.jpg");
+}
+```
 
 - learnt to use `position: sticky`
 
@@ -71,7 +81,7 @@ Users should be able to:
 ### Useful resources
 
 - [Using SVG - CSS tricks](https://css-tricks.com/using-svg/) - This helped me
-  for while using SVG files.
+  while using SVG files.
 
 ## Author
 
